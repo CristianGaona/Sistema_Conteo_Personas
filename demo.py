@@ -14,7 +14,7 @@ def center(x, y, w, h):
 
 def video1():
    try:
-    log = open('video1.txt', "w")
+    log = open('Store/video1.txt', "w")
    except:
     print("No se puede abrir el archivo log")
    cap = cv2.VideoCapture('Videos/video1.mp4')
@@ -150,7 +150,7 @@ def video1():
 
 def video2():
    try:
-    log = open('video2.txt', "w")
+    log = open('Store/video2.txt', "w")
    except:
     print("No se puede abrir el archivo log")
    cap = cv2.VideoCapture('Videos/video2.mp4')
@@ -284,7 +284,7 @@ def video2():
 
 def video3():
    try:
-    log = open('video3.txt', "w")
+    log = open('Store/video3.txt', "w")
    except:
     print("No se puede abrir el archivo log")
    cap = cv2.VideoCapture('Videos/video3.mp4')
@@ -420,7 +420,7 @@ def video3():
 
 def video4():
    try:
-    log = open('video4.txt', "w")
+    log = open('Store/video4.txt', "w")
    except:
     print("No se puede abrir el archivo log")
    cap = cv2.VideoCapture('Videos/video4.mp4')

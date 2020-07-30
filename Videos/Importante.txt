@@ -1,0 +1,2 @@
+En esta carpeta agregar los videos que se encuentran en el siguiente repositorio:
+https://github.com/CristianGaona/Sistema_Conteo_Personas/tree/master/Videos
